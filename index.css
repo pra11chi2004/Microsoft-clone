@@ -1,33 +1,54 @@
-.navbar{
+.navbar {
     height: 54px;
-    padding:0px 24px;
+    padding: 0px 24px;
     margin: 0px 0px 2px;
+    font-size: 13px;
 }
 
-#micosoft_logo{
+#micosoft_logo {
     height: 23px;
     width: 108px;
-    margin:-3px 0px 0px;
+    margin: -3px 0px 0px;
 }
 
-#logodiv{width: 137px;
+#logodiv {
+    width: 137px;
     height: 54px;
     padding: 16px 6px 16px 10px;
-    margin: 1px 0px 0px 0px}
+    margin: 1px 0px 0px 0px
+}
 
-.nav_iteams{
-      width:750px ;
-      height: 54px;
-      display: flex;
-       justify-content: space-evenly;
-         /* margin: 1px 0px 0px 0px; */
+.nav_iteams {
+    width: 750px;
+    height: 54px;
+    display: flex;
+    justify-content: space-evenly;
+    /* margin: 1px 0px 0px 0px; */
+   
 
 }
-.nav_iteams2{
-      width:400px ;
-      height: 54px;
-      display: flex;
-       justify-content: space-evenly;
-         /* margin: 1px 0px 0px 0px; */
 
+.nav_iteams2 {
+    width: 400px;
+    height: 54px;
+    display: flex;
+    justify-content: space-evenly;
+    /* margin: 1px 0px 0px 0px; */
+
+}
+
+#search_icon1 {
+    color: black;
+
+
+}
+
+#cart_icon {
+    color: black;
+}
+
+
+.itemnav
+{
+  margin-top: 15px;
 }
